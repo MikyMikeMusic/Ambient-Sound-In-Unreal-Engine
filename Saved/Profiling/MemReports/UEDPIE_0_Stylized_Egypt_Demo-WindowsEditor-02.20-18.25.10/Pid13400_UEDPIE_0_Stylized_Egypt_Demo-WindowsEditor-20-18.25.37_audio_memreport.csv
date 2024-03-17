@@ -1,0 +1,133 @@
+Sound Wave Memory Report
+
+
+/*******************/
+
+Streaming Audio Info:
+Number of chunks loaded: 73 of 2560
+The cache has blown 0 times
+Retaining:	, Loaded:	, Max Potential Usage:	, 
+0.8770 Megabytes (0.014 of total capacity)	,  13.7558 Megabytes (14424000 bytes)	, 64.0000 Megabytes	, 
+
+Index:	, Size (KB):	, Chunk:	, Request Count:	, Average Index:	, Number of Handles Retaining Chunk:	, Chunk Load Time:	, Name: 	, LoadingBehavior: 	, Notes:	, 
+   0.	, 130.87	, 1 of 1	, 70	,   0.00	, 1	,  0.7209	, red-tailed-hawk-62119	, Inherited*, (Cache Miss!)  
+   1.	, 255.54	, 2 of 8	, 112	,   0.00	, 0	,  1.7796	, leaves-rustling-14633	, Inherited*,   
+   2.	, 255.69	, 1 of 8	, 111	,   0.00	, 4	,  1.4037	, leaves-rustling-14633	, Inherited*, (Cache Miss!)  
+   3.	, 255.33	, 2 of 29	, 23	,   0.00	, 0	,  2.4409	, Main_Ambient_Sound	, Inherited*,   
+   4.	, 255.68	, 1 of 29	, 22	,   0.00	, 1	,  2.0642	, Main_Ambient_Sound	, Inherited*, (Cache Miss!)  
+   5.	, 255.61	, 2 of 142	, 24	,   0.00	, 0	,  1.0189	, Turkish_Open_Marketplace	, Inherited*,   
+   6.	, 255.81	, 1 of 142	, 23	,   0.00	, 1	,  0.6847	, Turkish_Open_Marketplace	, Inherited*, (Cache Miss!)  
+   7.	,   4.13	, 1 of 1	, 123	,   0.00	, 0	,  0.2352	, Gravel_3_Edited	, Inherited*, (Cache Miss!)  
+   8.	,   2.44	, 1 of 1	, 114	,   0.00	, 0	,  0.5039	, Sand_1_Edited	, Inherited*, (Cache Miss!)  
+   9.	,   3.73	, 1 of 1	, 114	,   0.00	, 0	,  0.4585	, Gravel_1_Edited	, Inherited*, (Cache Miss!)  
+  10.	,   2.07	, 1 of 1	, 119	,   0.00	, 0	,  0.5278	, Sand_2_Edited	, Inherited*, (Cache Miss!)  
+  11.	,   3.91	, 1 of 1	, 114	,   0.00	, 0	,  0.4631	, Gravel_2_Edited	, Inherited*, (Cache Miss!)  
+  12.	,   2.38	, 1 of 1	, 116	,   0.00	, 0	,  0.3419	, Sand_3_Edited	, Inherited*, (Cache Miss!)  
+  13.	, 255.37	, 3 of 142	, 20	,   0.00	, 0	,  2.7633	, Turkish_Open_Marketplace	, Inherited*,   
+  14.	,  10.79	, 1 of 1	, 91	,   0.00	, 0	,  0.3770	, Corvo_3	, Inherited*, (Cache Miss!)  
+  15.	, 254.89	, 3 of 8	, 95	,   0.00	, 0	,  0.8268	, leaves-rustling-14633	, Inherited*,   
+  16.	, 255.91	, 3 of 29	, 20	,   0.00	, 0	,  0.9396	, Main_Ambient_Sound	, Inherited*,   
+  17.	,  10.39	, 1 of 1	, 92	,   0.00	, 0	,  0.4385	, Corvo_2	, Inherited*, (Cache Miss!)  
+  18.	, 255.96	, 20 of 142	, 0	,   0.00	, 0	,  1.0248	, Turkish_Open_Marketplace	, Inherited*,   
+  19.	, 255.58	, 19 of 142	, 0	,   0.00	, 0	,  2.1649	, Turkish_Open_Marketplace	, Inherited*,   
+  20.	,  12.27	, 1 of 1	, 92	,   0.00	, 0	,  0.4340	, Corvo_1	, Inherited*, (Cache Miss!)  
+  21.	, 255.19	, 7 of 8	, 27	,   0.00	, 0	,  1.1274	, leaves-rustling-14633	, Inherited*,   
+  22.	, 255.22	, 6 of 8	, 35	,   0.00	, 0	,  0.9214	, leaves-rustling-14633	, Inherited*,   
+  23.	, 255.50	, 24 of 29	, 0	,   0.00	, 0	,  2.4708	, Main_Ambient_Sound	, Inherited*,   
+  24.	, 255.96	, 23 of 29	, 0	,   0.00	, 0	,  4.6574	, Main_Ambient_Sound	, Inherited*,   
+  25.	, 255.99	, 22 of 29	, 0	,   0.00	, 0	,  2.9398	, Main_Ambient_Sound	, Inherited*,   
+  26.	, 255.63	, 18 of 142	, 0	,   0.00	, 0	,  1.9537	, Turkish_Open_Marketplace	, Inherited*,   
+  27.	, 255.60	, 5 of 8	, 43	,   0.00	, 0	,  0.7097	, leaves-rustling-14633	, Inherited*,   
+  28.	, 255.64	, 21 of 29	, 0	,   0.00	, 0	,  0.9762	, Main_Ambient_Sound	, Inherited*,   
+  29.	, 254.91	, 17 of 142	, 0	,   0.00	, 0	,  2.7735	, Turkish_Open_Marketplace	, Inherited*,   
+  30.	, 254.88	, 4 of 8	, 63	,   0.00	, 0	,  1.7499	, leaves-rustling-14633	, Inherited*,   
+  31.	, 255.78	, 20 of 29	, 0	,   0.00	, 0	,  0.8601	, Main_Ambient_Sound	, Inherited*,   
+  32.	, 255.86	, 16 of 142	, 0	,   0.00	, 0	,  4.3343	, Turkish_Open_Marketplace	, Inherited*,   
+  33.	, 255.88	, 19 of 29	, 0	,   0.00	, 0	,  1.0066	, Main_Ambient_Sound	, Inherited*,   
+  34.	, 255.64	, 15 of 142	, 0	,   0.00	, 0	,  1.3234	, Turkish_Open_Marketplace	, Inherited*,   
+  35.	, 255.41	, 18 of 29	, 0	,   0.00	, 0	,  2.6803	, Main_Ambient_Sound	, Inherited*,   
+  36.	,  18.28	, 8 of 8	, 15	,   0.00	, 0	,  0.9273	, leaves-rustling-14633	, Inherited*,   
+  37.	, 255.65	, 14 of 142	, 0	,   0.00	, 0	,  1.6592	, Turkish_Open_Marketplace	, Inherited*,   
+  38.	, 255.54	, 17 of 29	, 0	,   0.00	, 0	,  2.4438	, Main_Ambient_Sound	, Inherited*,   
+  39.	, 255.68	, 16 of 29	, 0	,   0.00	, 0	,  1.8879	, Main_Ambient_Sound	, Inherited*,   
+  40.	, 255.78	, 13 of 142	, 0	,   0.00	, 0	,  1.7264	, Turkish_Open_Marketplace	, Inherited*,   
+  41.	, 255.51	, 15 of 29	, 0	,   0.00	, 0	,  3.5740	, Main_Ambient_Sound	, Inherited*,   
+  42.	, 255.80	, 12 of 142	, 0	,   0.00	, 0	,  1.2342	, Turkish_Open_Marketplace	, Inherited*,   
+  43.	, 255.45	, 14 of 29	, 0	,   0.00	, 0	,  4.2854	, Main_Ambient_Sound	, Inherited*,   
+  44.	, 255.36	, 11 of 142	, 0	,   0.00	, 0	,  0.9190	, Turkish_Open_Marketplace	, Inherited*,   
+  45.	, 255.82	, 13 of 29	, 0	,   0.00	, 0	,  1.1897	, Main_Ambient_Sound	, Inherited*,   
+  46.	, 255.48	, 10 of 142	, 1	,   0.00	, 0	,  1.0170	, Turkish_Open_Marketplace	, Inherited*,   
+  47.	, 255.34	, 12 of 29	, 0	,   0.00	, 0	,  1.7513	, Main_Ambient_Sound	, Inherited*,   
+  48.	, 255.38	, 11 of 29	, 2	,   0.00	, 0	,  0.7838	, Main_Ambient_Sound	, Inherited*,   
+  49.	, 255.82	, 9 of 142	, 2	,   0.00	, 0	,  2.4343	, Turkish_Open_Marketplace	, Inherited*,   
+  50.	, 255.91	, 10 of 29	, 2	,   0.00	, 0	,  0.7521	, Main_Ambient_Sound	, Inherited*,   
+  51.	, 255.72	, 8 of 142	, 2	,   0.00	, 0	,  0.9694	, Turkish_Open_Marketplace	, Inherited*,   
+  52.	, 255.79	, 9 of 29	, 2	,   0.00	, 0	,  1.9873	, Main_Ambient_Sound	, Inherited*,   
+  53.	, 255.93	, 7 of 142	, 4	,   0.00	, 0	,  1.2246	, Turkish_Open_Marketplace	, Inherited*,   
+  54.	, 255.96	, 8 of 29	, 4	,   0.00	, 0	,  1.2506	, Main_Ambient_Sound	, Inherited*,   
+  55.	, 255.71	, 6 of 142	, 6	,   0.00	, 0	,  0.6762	, Turkish_Open_Marketplace	, Inherited*,   
+  56.	, 255.39	, 7 of 29	, 6	,   0.00	, 0	,  1.8349	, Main_Ambient_Sound	, Inherited*,   
+  57.	, 255.70	, 6 of 29	, 6	,   0.00	, 0	,  1.2488	, Main_Ambient_Sound	, Inherited*,   
+  58.	, 255.36	, 5 of 142	, 6	,   0.00	, 0	,  0.9602	, Turkish_Open_Marketplace	, Inherited*,   
+  59.	, 255.49	, 5 of 29	, 9	,   0.00	, 0	,  1.4545	, Main_Ambient_Sound	, Inherited*,   
+  60.	, 255.46	, 4 of 142	, 13	,   0.00	, 0	,  2.4195	, Turkish_Open_Marketplace	, Inherited*,   
+  61.	, 255.91	, 4 of 29	, 14	,   0.00	, 0	,  0.9280	, Main_Ambient_Sound	, Inherited*,   
+  62.	,   2.75	, 1 of 1	, 63	,   0.00	, 0	,  0.2736	, Footstep_1	, Inherited*, (Cache Miss!)  
+  63.	, 255.35	, 2 of 3	, 15	,   0.00	, 0	,  1.8761	, Giocare_con_la_sabbia	, Uninitialized,   
+  64.	, 255.54	, 1 of 3	, 17	,   0.00	, 0	,  1.1989	, Giocare_con_la_sabbia	, Uninitialized, (Cache Miss!)  
+  65.	, 156.55	, 1 of 1	, 12	,   0.00	, 0	,  2.2252	, Boring_Sand	, Uninitialized, (Cache Miss!)  
+  66.	,   1.60	, 1 of 1	, 4	,   0.00	, 0	,  0.2364	, Footstep_2	, Inherited*, (Cache Miss!)  
+  67.	,   1.59	, 1 of 1	, 0	,   0.00	, 0	,  0.1714	, Footstep_2	, Inherited*, (Cache Miss!) (Stale Chunk) 
+  68.	,   1.77	, 1 of 1	, 3	,   0.00	, 0	,  0.2825	, Footstep_2	, Inherited*, (Cache Miss!) (Stale Chunk) 
+  69.	,   2.67	, 1 of 1	, 6	,   0.00	, 0	,  1.1376	, Footstep_1	, Inherited*, (Cache Miss!) (Stale Chunk) 
+  70.	,   6.39	, 1 of 1	, 1	,   0.00	, 0	,  0.9774	, Footstep_1	, Inherited*, (Cache Miss!) (Stale Chunk) 
+  71.	,   9.38	, 1 of 1	, 0	,   0.00	, 0	,  0.5679	, Footstep_2	, Inherited*, (Cache Miss!) (Stale Chunk) 
+  72.	, 155.73	, 3 of 3	, 9	,   0.00	, 0	,  1.1489	, Giocare_con_la_sabbia	, Uninitialized,   
+Cache Miss Log:
+Most Missed Chunks:
+Name:	, Index:	, Miss Count:
+
+All Cache Misses:
+SoundWave:	, ChunkIndex
+
+
+/*******************/
+
+Memory (MB),Count
+Total,0.064,30
+Decompressed,0.000,0
+Compressed,0.000,30
+
+All Sound Wave Objects Sorted Alphebetically:
+
+SoundWave,KB,MB,SoundGroup,Duration,CompressionState,Max Size in Cache (Unevictable KB),Max Size In Cache (Total KB)
+/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02,1.74,0.00,Default,1.70,Streaming,49.03,49.13
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Corvo_1.Corvo_1,1.68,0.00,Default,0.42,Streaming,12.27,12.32
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Corvo_2.Corvo_2,1.68,0.00,Default,0.39,Streaming,10.39,10.43
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Corvo_3.Corvo_3,1.68,0.00,Default,0.39,Streaming,10.79,10.84
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Footstep_1.Footstep_1,1.67,0.00,Default,0.12,Streaming,2.75,2.78
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Footstep_2.Footstep_2,1.66,0.00,Default,0.04,Streaming,1.60,1.63
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Footstep_2_Edited.Footstep_2_Edited,1.63,0.00,Default,0.08,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Footstep_2_Edited1.Footstep_2_Edited1,1.63,0.00,Default,0.04,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Gravel_1_Edited.Gravel_1_Edited,1.67,0.00,Default,0.24,Streaming,3.73,3.78
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Gravel_2_Edited.Gravel_2_Edited,1.68,0.00,Default,0.29,Streaming,3.91,3.95
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Gravel_3_Edited.Gravel_3_Edited,1.67,0.00,Default,0.28,Streaming,4.13,4.17
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/leaves-rustling-14633.leaves-rustling-14633,4.71,0.00,Default,62.55,Streaming,255.69,1808.36
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Main_Ambient_Sound.Main_Ambient_Sound,6.94,0.01,Default,216.19,Streaming,255.99,7183.29
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Punta.Punta,1.63,0.00,Default,0.12,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Punta2.Punta2,1.63,0.00,Default,0.10,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/red-tailed-hawk-62119.red-tailed-hawk-62119,2.87,0.00,Default,24.70,Streaming,130.87,132.10
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Sand_1_Edited.Sand_1_Edited,1.67,0.00,Default,0.19,Streaming,2.44,2.47
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Sand_2_Edited.Sand_2_Edited,1.67,0.00,Default,0.15,Streaming,2.07,2.10
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Sand_3_Edited.Sand_3_Edited,1.67,0.00,Default,0.18,Streaming,2.38,2.42
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Tallone.Tallone,1.63,0.00,Default,0.11,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Tallone2.Tallone2,1.63,0.00,Default,0.08,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Ambient_Sound_Environment/Ambient_Sound/Wave/Turkish_Open_Marketplace.Turkish_Open_Marketplace,5.71,0.01,Default,1326.87,Streaming,255.98,36274.57
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa1.Arpa1,1.63,0.00,Default,8.79,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa2.Arpa2,1.63,0.00,Default,6.28,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa3.Arpa3,1.63,0.00,Default,5.38,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa4.Arpa4,1.63,0.00,Default,5.32,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa5.Arpa5,1.63,0.00,Default,4.54,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Arpa6.Arpa6,1.63,0.00,Default,5.44,Streaming,0.00,0.00
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Boring_Sand.Boring_Sand,2.07,0.00,Default,8.32,Streaming,156.55,156.98
+/Game/Stylized_Egypt/Audio_Content/Procedural_Sound_Design/Wave/Giocare_con_la_sabbia.Giocare_con_la_sabbia,3.35,0.00,Default,34.56,Streaming,255.54,668.33
